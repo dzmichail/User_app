@@ -1,0 +1,3 @@
+Name is Stan
+Date of Birth is 22/11/1993
+Sex is Man
